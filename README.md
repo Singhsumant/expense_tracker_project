@@ -1,2 +1,2 @@
 # expense_tracker_project
-Devloped this Speechly  expense tracker  using React js ,Speechly AI,Material Ui,
+this Speechly functione   expense tracker  is built using React js ,Speechly AI,Material Ui,
